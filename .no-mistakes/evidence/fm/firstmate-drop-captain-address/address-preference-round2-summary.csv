@@ -1,0 +1,11 @@
+variant,prompt,model,runs,runs_with_captain
+base-nopref,P1,sonnet,4,4
+base-pref,P4,sonnet,4,1
+target-nopref,P1,sonnet,6,5
+target-nopref,P2,sonnet,2,2
+target-nopref,P4,sonnet,3,3
+target-pref,P1,sonnet,3,0
+target-pref,P2,sonnet,3,0
+target-pref,P3,sonnet,2,0
+target-pref,P4,sonnet,6,0
+target-pref,P5,sonnet,4,0
